@@ -1,0 +1,9 @@
+INSERT INTO customer ("name", surname, age, is_active) VALUES('Marco', 'Rodrigues', 18, true);
+INSERT INTO customer ("name", surname, age, is_active) VALUES('Marco', 'Simões', 18, true);
+INSERT INTO customer ("name", surname, age, is_active) VALUES('Filipa', 'Rosado', 18, true);
+INSERT INTO customer ("name", surname, age, is_active) VALUES('Francisco', 'Dominguez', 18, true);
+INSERT INTO customer ("name", surname, age, is_active) VALUES('Rocío', 'Asuncion', 18, true);
+INSERT INTO customer ("name", surname, age, is_active) VALUES('John', 'Doe', 17, true);
+INSERT INTO customer ("name", surname, age, is_active) VALUES('John', 'Doe', 20, false);
+INSERT INTO customer ("name", surname, age, is_active) VALUES('Jane', 'Doe', 17, true);
+INSERT INTO customer ("name", surname, age, is_active) VALUES('Jane', 'Doe', 20, false);
